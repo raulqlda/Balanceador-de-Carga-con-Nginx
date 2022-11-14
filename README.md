@@ -50,6 +50,8 @@
 
 ![](https://raw.githubusercontent.com/raulqlda/Balanceador-de-Carga-con-Nginx/main/imagenes/captura12.png)
 
+Realizar lo mismo en la otra maquina de nginx
+
 ## Configuracion de la maquina balanceador
 
 1. Instalamos el gninx
